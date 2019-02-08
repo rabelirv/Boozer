@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.7.1",
+    "aframe": "^0.8.2",
+    "aframe-react": "^4.4.0",
     "react": "^16.7.0",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-web-ar": "^1.0.0-beta2",
+    "react-webcam": "^1.0.4",
+    "three": "^0.87.1"
   },
   "scripts": {
     "start": "react-scripts start",
